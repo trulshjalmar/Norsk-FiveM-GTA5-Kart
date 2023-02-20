@@ -1,6 +1,6 @@
 #HUGE UPDATE
 
-![Alt text](/posts/path/to/img.jpg "Optional title")
+![Alt text](/posts/path/to/image.png "Optional title")
 
 **Change log:**
 - La til litt stygge ting
