@@ -1,6 +1,6 @@
 #HUGE UPDATE
 
-![Alt text](/posts/path/to/image.png "Optional title")
+![alt tekst](image.png)
 
 **Change log:**
 - La til litt stygge ting
