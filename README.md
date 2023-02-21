@@ -2,7 +2,7 @@
 
 ![Kartbilde](image.png)
 
-Dette er en norsk kart-modifikasjon for GTA 5 som er laget spesielt for rollespill-formål. Kartet inneholder alle hovedveiene i Norge, inkludert E18 og E6, og bruker norske stedsnavn for å gi en mer autentisk opplevelse.
+Dette er en norsk kart-modifikasjon for GTA 5 som er laget spesielt for rollespill-formål. Kartet inneholder f.eks noen av de ulike hovedveiene i Norge, inkludert E18 og E6, og bruker norske stedsnavn for å gi en mer autentisk opplevelse.
 
 ## Funksjoner
 
