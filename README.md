@@ -26,6 +26,6 @@ Dette kartet er lisensiert under [Creative Commons Attribution-NonCommercial 4.0
 
 ## Mer informasjon
 
-Vær oppmerksom på at dette kartet er ment for bruk i GTA 5 rollespill og ikke kan brukes på servere som tjener penger gjennom mikrotransaksjoner eller på annen måte uten min tillatelse. Ta kontakt med meg på e-post [truls.hjalmar@hotmail.com] hvis du ønsker å bruke kartet til kommersielle formål.
+Vær oppmerksom på at dette kartet er ment for bruk i GTA 5 rollespill og ikke kan brukes på servere som tjener penger gjennom mikrotransaksjoner eller på annen måte uten min tillatelse. Ta kontakt med meg på e-post [truls.hjalmar@hotmail.com] hvis du ønsker å bruke kartet til kommersielle formål eller gjøre små justeringer.
 
 © 2023 Truls Andersen. Med enerett.
